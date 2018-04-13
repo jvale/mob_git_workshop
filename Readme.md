@@ -21,6 +21,7 @@ If you're still a student, you can get a whole pack of goodies! Check here: http
 
 
 ### Making some changes
+* Make sure you are in the tip of the `master` branch
 * Create a new branch and `checkout`
 * Update the webpage's title in the `index.html` file
 * Check the differences with `git diff`
